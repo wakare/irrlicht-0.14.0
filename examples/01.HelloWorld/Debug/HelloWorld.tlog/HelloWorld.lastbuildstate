@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|Win32|C:\Users\msi-cn\Documents\Visual Studio 2017\Projects\irrlicht-0.14.0\examples\01.HelloWorld\|

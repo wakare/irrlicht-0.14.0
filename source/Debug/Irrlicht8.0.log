@@ -1,0 +1,163 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: 正在首次将属性“WindowsTargetPlatformVersion”设置为某个值，但已在“C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)”处使用了该属性。
+  CD3D8Driver.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CD3D8NormalMapRenderer.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\cd3d8normalmaprenderer.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CD3D8ParallaxMapRenderer.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\cd3d8parallaxmaprenderer.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CD3D8ShaderMaterialRenderer.cpp
+  CD3D8Texture.cpp
+  CD3D9Driver.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CD3D9HLSLMaterialRenderer.cpp
+  CD3D9NormalMapRenderer.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\cd3d9normalmaprenderer.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CD3D9ParallaxMapRenderer.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\cd3d9parallaxmaprenderer.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CD3D9ShaderMaterialRenderer.cpp
+  CD3D9Texture.cpp
+  CDMFLoader.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\keycodes.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CFileList.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CFileSystem.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CImageLoaderJPG.cpp
+  CImageLoaderPNG.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CIrrDeviceLinux.cpp
+  CIrrDeviceStub.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\keycodes.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CIrrDeviceWin32.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\keycodes.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\cirrdevicewin32.cpp(705): warning C4996: 'GetVersionExA': 被声明为已否决
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(433): note: 参见“GetVersionExA”的声明
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\cirrdevicewin32.cpp(708): warning C4996: 'GetVersionExA': 被声明为已否决
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(433): note: 参见“GetVersionExA”的声明
+  COpenGLDriver.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\copengldriver.cpp(78): warning C4838: 从“int”转换到“BYTE”需要收缩转换
+  正在生成代码...
+  正在编译...
+  COpenGLNormalMapRenderer.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\copenglnormalmaprenderer.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  COpenGLParallaxMapRenderer.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\copenglparallaxmaprenderer.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  COpenGLShaderMaterialRenderer.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  COpenGLSLMaterialRenderer.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  COpenGLTexture.cpp
+  COSOperator.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CZipReader.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Irrlicht.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\keycodes.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  os.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\source\irrlicht\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  jcapimin.c
+  jcapistd.c
+  jccoefct.c
+  jccolor.c
+  jcdctmgr.c
+  jchuff.c
+  jcinit.c
+  jcmainct.c
+  jcmarker.c
+  jcmaster.c
+  jcomapi.c
+  jcparam.c
+  jcphuff.c
+  jcprepct.c
+  jcsample.c
+  jctrans.c
+  jdapimin.c
+  jdapistd.c
+  jdatadst.c
+  jdatasrc.c
+  正在生成代码...
+  正在编译...
+  jdcoefct.c
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  jdmaster.c
+  jdmerge.c
+  jdphuff.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jerror.c
+  jfdctflt.c
+  jfdctfst.c
+  jfdctint.c
+  jidctflt.c
+  jidctfst.c
+  jidctint.c
+  正在生成代码...
+  正在编译...
+  jidctred.c
+  jmemmgr.c
+  jmemnobs.c
+  jquant1.c
+  jquant2.c
+  jutils.c
+  rdbmp.c
+  rdcolmap.c
+  rdgif.c
+  rdppm.c
+  rdrle.c
+  rdswitch.c
+  rdtarga.c
+  transupp.c
+  wrbmp.c
+  wrgif.c
+  wrppm.c
+  wrrle.c
+  wrtarga.c
+  png.c
+  正在生成代码...
+  正在编译...
+  pngerror.c
+  pngget.c
+  pngmem.c
+  pngpread.c
+  pngread.c
+  pngrio.c
+  pngrtran.c
+  pngrutil.c
+  pngset.c
+  pngtrans.c
+  pngwio.c
+  pngwrite.c
+  pngwtran.c
+  pngwutil.c
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  inffast.c
+  inflate.c
+  正在生成代码...
+  正在编译...
+  inftrees.c
+  trees.c
+  uncompr.c
+  zutil.c
+  正在生成代码...
+C3DSMeshFileLoader.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+Irrlicht.obj : warning LNK4229: 遇到无效的指令“/COMMENT:Irrlicht Engine (c) 2002-2005 Nikolaus Gebhardt”；已忽略
+    正在创建库 .\..\Debug/Irrlicht.lib 和对象 .\..\Debug/Irrlicht.exp
+CIrrDeviceWin32.obj : error LNK2019: 无法解析的外部符号 "class irr::video::IVideoDriver * __cdecl irr::video::createSoftwareDriver2(class irr::core::dimension2d<int> const &,bool,class irr::io::IFileSystem *,class irr::video::IImagePresenter *)" (?createSoftwareDriver2@video@irr@@YAPAVIVideoDriver@12@ABV?$dimension2d@H@core@2@_NPAVIFileSystem@io@2@PAVIImagePresenter@12@@Z)，该符号在函数 "private: void __thiscall irr::CIrrDeviceWin32::createDriver(enum irr::video::E_DRIVER_TYPE,class irr::core::dimension2d<int> const &,unsigned int,bool,bool,bool,bool)" (?createDriver@CIrrDeviceWin32@irr@@AAEXW4E_DRIVER_TYPE@video@2@ABV?$dimension2d@H@core@2@I_N222@Z) 中被引用
+.\..\Debug/Irrlicht.dll : fatal error LNK1120: 1 个无法解析的外部命令

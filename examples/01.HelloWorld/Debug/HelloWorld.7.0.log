@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\include\irrstring.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\msi-cn\documents\visual studio 2017\projects\irrlicht-0.14.0\include\keycodes.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  HelloWorld.7.0.vcxproj -> C:\Users\msi-cn\Documents\Visual Studio 2017\Projects\irrlicht-0.14.0\examples\01.HelloWorld\.\Debug\HelloWorld.exe
+  HelloWorld.7.0.vcxproj -> .\Debug/HelloWorld.pdb (Full PDB)
